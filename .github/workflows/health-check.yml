@@ -54,6 +54,7 @@ jobs:
             Fieldshortcut->https://fieldshortcut.com
             Alice->https://alice.fieldshortcut.com
             Aiseekify->https://test.aiseekify.com
+            Aisheetsmaster->https://www.aisheetsmaster.com
           GITHUB_TOKEN: ${{ github.token }}
           JOB_NAME: ${{ github.workflow }}
           ARTIFACT_NAME: ${{ env.ARTIFACT_NAME }}
